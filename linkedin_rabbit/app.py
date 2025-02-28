@@ -630,7 +630,7 @@ def main():
                 os.remove("temp_input.txt")
     
     # Footer
-    st.markdown('<div class="footer">LinkedIn Rabbit © 2023 | Made by Tensor Boy (@tensor._.boy) | Open Source Project</div>', unsafe_allow_html=True)
+    st.markdown('<div class="footer">LinkedIn Rabbit © 2025 | Made by Tensor Boy (@tensor._.boy) | Open Source Project</div>', unsafe_allow_html=True)
 
 def parse_text_file(file_path):
     """Parse the text file to extract post data."""
