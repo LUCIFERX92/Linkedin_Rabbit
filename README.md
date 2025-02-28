@@ -2,8 +2,6 @@
 
 A powerful and stealthy LinkedIn post scraper that allows you to extract posts from any LinkedIn profile.
 
-![LinkedIn Rabbit Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
-
 ## Features
 
 - 🚀 Extract posts from any LinkedIn profile
